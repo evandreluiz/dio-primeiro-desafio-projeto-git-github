@@ -1,0 +1,10 @@
+Esse desafio foi realizando da seguinte forma:
+
+Criei um novo repositório pelo GitHub;
+Fiz uma alteração no README.md;
+Clonei o repositório pelo Git Bash para a máquina local;
+Criei um novo aquivo TXT;
+Observei o status;
+Preparei as novas informações para commitar;
+Commitei as novas informações;
+Fiz o push para o GitHub.
